@@ -18,7 +18,7 @@ This is a solution to the [Huddle landing page with curved sections challenge on
 
 ### Screenshot
 
-![](./screenshot/screenshot-desktop.png.png)
+![](./screenshot/screenshot-desktop.png)
 
 ### Links
 
