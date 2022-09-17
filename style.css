@@ -589,6 +589,11 @@ article.hero-text {
     gap: 30px;
   }
 
+  .card-2 {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+
   .flex-form {
     display: flex;
     flex-direction: column;
