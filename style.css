@@ -565,6 +565,16 @@ article.hero-text {
     flex-direction: column-reverse;
   }
 
+  .card-1 .card {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .card-3 .card {
+    display: flex;
+    flex-direction: column;
+  }
+
   .footer-flex {
     padding-top: 20px;
     display: flex;
